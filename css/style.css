@@ -1,0 +1,63 @@
+body{
+    background-color: #f1f1f1;
+
+}
+
+.header-intro .profile-image {
+ width:300px;
+}
+.header-intro a{
+    text-decoration: none;
+    color: white;
+}
+
+.skills-icon-holder {
+    background: #41A4F5;
+    width: 80px;
+    height: 80px;
+    padding-top: 1.25rem;
+    top: -40px;
+    left: 50%;
+    margin-left: -40px;
+}
+.text-center {
+    text-align: center !important;
+}
+.position-absolute {
+    position: absolute !important;
+}
+.d-inline-block {
+    display: inline-block !important;
+}
+.rounded-circle {
+    border-radius: 50% !important;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+.section-intro {
+    max-width: 780px;
+    overflow: hidden;
+}
+.profile-small {
+    width: 80px;
+    height: 80px;
+}
+.link-on-bg, a.link-on-bg {
+    color: rgba(0,0,0,0.5);
+}
+
+
+.filters .type.active {
+    background: #41A4F5;
+    color: #fff;
+}
+.filters .type {
+    display: inline-block;
+    padding: 0.275rem 0.875rem;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
